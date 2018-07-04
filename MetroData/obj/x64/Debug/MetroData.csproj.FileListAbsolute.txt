@@ -1,0 +1,10 @@
+D:\Documents\RuifengSummerJob\MetroData\MetroData\bin\x64\Debug\MetroData.exe.config
+D:\Documents\RuifengSummerJob\MetroData\MetroData\bin\x64\Debug\MetroData.exe
+D:\Documents\RuifengSummerJob\MetroData\MetroData\bin\x64\Debug\MetroData.pdb
+D:\Documents\RuifengSummerJob\MetroData\MetroData\obj\x64\Debug\MetroData.Form1.resources
+D:\Documents\RuifengSummerJob\MetroData\MetroData\obj\x64\Debug\MetroData.Properties.Resources.resources
+D:\Documents\RuifengSummerJob\MetroData\MetroData\obj\x64\Debug\MetroData.csproj.GenerateResource.cache
+D:\Documents\RuifengSummerJob\MetroData\MetroData\obj\x64\Debug\MetroData.csproj.CoreCompileInputs.cache
+D:\Documents\RuifengSummerJob\MetroData\MetroData\obj\x64\Debug\MetroData.exe
+D:\Documents\RuifengSummerJob\MetroData\MetroData\obj\x64\Debug\MetroData.pdb
+D:\Documents\RuifengSummerJob\MetroData\MetroData\obj\x64\Debug\MetroData.csprojAssemblyReference.cache
